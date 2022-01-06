@@ -1,0 +1,5 @@
+name: HIBC
+main: ru.arcein.plugins.hibc.HIBC
+version: 0.0.1
+depend: [Heroes, ProtocolLib]
+softdepend: []
